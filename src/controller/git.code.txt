@@ -1,0 +1,10 @@
+git init
+git add database.js
+ls
+git status
+git commit -m "return file"
+git remote add origin http url
+git remove -v
+git push origin main
+
+git pull origin main
